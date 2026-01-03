@@ -77,8 +77,3 @@ The goal is to convert raw data into **actionable insights and reliable forecast
 **Kavindu Udara**  
 Aspiring Data Analyst | Time Series Forecasting | Data Visualization  
 
----
-
-
-
-## 📁 Project Structure
